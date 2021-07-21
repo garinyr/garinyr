@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m Junior Developer
 - 🌱 I’m currently learning VueJS
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gairnyr/).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/garinyr/).
 
 ### Tech Stack
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel (PHP Framework)" width="21px" src="https://laravel.com/img/logomark.min.svg" /></a>
