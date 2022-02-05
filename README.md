@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m Junior Developer
-- 🌱 I’m currently learning VueJS
+<!-- - 🔭 I’m Junior Developer -->
+- 🌱 I’m currently learning JAVA
+- 🤔 I’m looking for help with Selenium JAVA automation testing
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/garinyr/).
 
 ### Tech Stack
