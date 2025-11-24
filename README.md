@@ -11,28 +11,6 @@ I'm a dedicated **QA Engineer** with hands-on backend development experience in 
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-#### **Languages & Frameworks:**
-  <a href="https://go.dev/"><img align="left" alt="Go" title="Go (Golang)" width="40px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" /></a>
-  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="40px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" /></a>
-  <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel (PHP Framework)" width="40px" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="Node.js" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>
-  <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /></a>
-
-<br><br>
-
-#### **Other Tools:**
-  <a href="https://www.docker.com/"><img align="left" alt="Docker" title="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" /></a>
-  <a href="https://git-scm.com/"><img align="left" alt="Git" title="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
-  <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" /></a>
-  <a href="https://www.postman.com/"><img align="left" alt="Postman" title="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a>
-  <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /></a>
-
-<br><br>
-
----
-
 ### 💼 Learning & Projects
 
 - 🧪 **Test Automation Frameworks** - Learning to build automated testing suites
@@ -46,11 +24,17 @@ I'm a dedicated **QA Engineer** with hands-on backend development experience in 
 
 ---
 
+# 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/garinyr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=garinyr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=garinyr&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Garinyr&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Garinyr&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garinyr&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Garinyr&icon=0&color=0)](https://visitcount.itsvg.in)
